@@ -1,0 +1,3 @@
+name: B0ATBasePlugin
+main: net.b0at.base.B0atBasePlugin
+version: 0.1.0
